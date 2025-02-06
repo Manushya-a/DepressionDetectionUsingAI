@@ -32,11 +32,11 @@ To install the necessary dependencies for this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    https://github.com/Manushya-a/DepressionDetectionUsingAI.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo
+    cd DepressionDetectionUsingAI
     ```
 3. Create a virtual environment and activate it:
     ```bash
